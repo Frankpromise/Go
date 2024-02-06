@@ -10,12 +10,12 @@ This documentation provides an overview of the Go Hello World project, along wit
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/go-hello-world.git
+    git clone https://github.com/yourusername/helloworld.git
     ```
 
 2. **Navigate to the project directory:**
     ```bash
-    cd go-hello-world
+    cd helloworld
     ```
 
 3. **Run the Hello World program:**
