@@ -38,7 +38,11 @@ The project utilizes Go modules for dependency management. The `go mod init` com
 
 In Go, the `main` function serves as the entry point of execution for the program. The `main.go` file contains the `main` function where the "Hello, World" message is printed.
 
-### 3. Running a Go Program
+### 3. `Println`
+Println formats using the default formats for its operands and writes to standard output. Spaces are always added between operands and a newline is appended. It returns the number of bytes written and any write error encountered.
+
+
+### 4. Running a Go Program
 
 The `go run` command compiles and runs the Go program specified after it. In this case, it executes the `main.go` file, resulting in the "Hello, World" output.
 
