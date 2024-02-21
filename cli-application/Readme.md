@@ -63,3 +63,10 @@ f, err := os.Open("./log.txt")
 1. Creates a buffered reader (bufReader) for efficient reading from the file.
 2. Iterates over each line in the file until the end is reached.
 3. Checks if the line contains the specified log level (*level), and if so, prints the line to the console.
+
+
+## Usage
+
+```
+go run . -Entry 1
+```
